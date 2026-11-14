@@ -71,3 +71,6 @@ Jadi dari tugas ini bisa disimpulin kalau ini emang klasifikasi biner, karena ta
 ## Tools
 
 Python, VS Code / Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+## Author
+XinShinHuang
